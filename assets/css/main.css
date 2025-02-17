@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@theme {
+    --color-txt-primary : #A2A89F;
+    --color-yellow : #E4AF09;
+    --color-input : #405358;
+    --color-border : #181A1E;
+}
