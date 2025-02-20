@@ -5,9 +5,9 @@
 <template>
  <div class="flex bg-black h-screen">
    <!--sidebar-->
-   <div class="bg-zinc-900 w-md p-8">
+   <div class="bg-zinc-900 w-md p-12 flex flex-col justify-center">
      <Logo/>
-      <h1 class="text-white text-lg font-bold mt-8">Sign up for a free account</h1>
+      <h1 class="text-white text-lg font-bold mt-4">Sign up for a free account</h1>
       <p class="text-txt-primary text-sm mt-0.5">Already registered ? <span class="font-bold text-yellow underline">Log in</span> to your account</p>
      <div class="mt-8">
        <label for="" class="text-white text-sm mb-0.5">Email</label>

@@ -6,3 +6,7 @@
     --color-input : #405358;
     --color-border : #181A1E;
 }
+
+html, body {
+    overflow: hidden;
+}
